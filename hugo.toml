@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'Alex'
 theme = "m10c"
 
+[taxonomies]
+   tag = "tags"
+
 [params]
   author = "Alex"
   description = "A blog about all things technical."
