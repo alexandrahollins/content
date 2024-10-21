@@ -1,4 +1,4 @@
-baseURL = 'https://alexandrahollins.github.io/content/'
+baseURL = 'https://alexandra.hollins.io'
 languageCode = 'en-us'
 title = 'Alexandra Hollins'
 theme = "m10c"
@@ -27,4 +27,4 @@ theme = "m10c"
    darkColor = "#ffffff"
    lightColor = "#000000"
    lightestColor = "#15181C"
-   primaryColor = "#4B4B4B"
+   primaryColor = "#000080"
