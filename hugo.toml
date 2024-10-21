@@ -1,4 +1,4 @@
-baseURL = 'https://alexandra.hollins.io/content'
+baseURL = 'https://alexandra.hollins.io/'
 languageCode = 'en-us'
 title = 'Alexandra Hollins'
 theme = "m10c"
